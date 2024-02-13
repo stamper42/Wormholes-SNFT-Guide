@@ -6,7 +6,7 @@
 
 ## Wormholes cüzdanınıza girip 700 erbmiz var mı diye kontrol ediyoruz varsa işlemlere başlayalım.
 Wormholes Cüzdanı https://www.limino.com/
-## Sonra işaretli yere tıklayıp stake ekranına geliyoruz.
+## Sonra işaretli yere tıklayıp stake ekranına geliyoruz..
 
 <img width="563" alt="Screenshot 2022-10-24 at 17 25 49" src="https://user-images.githubusercontent.com/76253089/206719966-80303fd7-8f90-471f-89b3-b476bdea09c4.png">
 
